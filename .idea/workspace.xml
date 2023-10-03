@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee5ed408-3611-4c03-beeb-dad2864f2c36" name="Changes" comment="Pushing completed program FuelCosts with all input loops.">
-      <change afterPath="$PROJECT_DIR$/src/RectangleInfo.java" afterDir="false" />
+    <list default="true" id="ee5ed408-3611-4c03-beeb-dad2864f2c36" name="Changes" comment="Pushing completed program RectangleInfo with all input loops.">
+      <change afterPath="$PROJECT_DIR$/src/MetricConverter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,12 +63,21 @@
       <option name="project" value="LOCAL" />
       <updated>1696295121798</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Pushing completed program RectangleInfo with all input loops.">
+      <option name="closed" value="true" />
+      <created>1696296063192</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1696296063192</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Pushing completed program with all input loops." />
     <MESSAGE value="Pushing completed program FuelCosts with all input loops." />
-    <option name="LAST_COMMIT_MESSAGE" value="Pushing completed program FuelCosts with all input loops." />
+    <MESSAGE value="Pushing completed program RectangleInfo with all input loops." />
+    <option name="LAST_COMMIT_MESSAGE" value="Pushing completed program RectangleInfo with all input loops." />
   </component>
 </project>
